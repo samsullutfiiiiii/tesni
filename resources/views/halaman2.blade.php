@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>testing bang</title>
+    <title>INI HALAMAN 2 BANGSADD</title>
 </head>
 <body>
-    <h1>coba-coba</h1>
-    <a href="hal2">klik untuk ke halaman 2</a>
+    <h1>INI HALAMAN 2 BANGSADD</h1>
+    <a href="/">klik untuk balik</a>
 </body>
 </html>
